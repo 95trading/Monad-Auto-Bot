@@ -1,0 +1,16 @@
+{
+  "phi_gas": {
+    "stake": {"min": 200000, "max": 600000},
+    "unstake": {"min": 300000, "max": 700000},
+    "claim": {"min": 300000, "max": 700000},
+    "maxGwei": 65
+  },
+  "giao_dich": {
+    "solan_thuchien": 5,
+    "delay_dapp": {"min": 50, "max": 150},
+    "delay_chuky": {"min": 60, "max": 120},
+    "delay_taikhoan": {"min": 2, "max": 5},
+    "countdown_vonglap": 43200,
+    "so_mon_giaodich": {"min": 0.001, "max": 0.01}
+  }
+}
